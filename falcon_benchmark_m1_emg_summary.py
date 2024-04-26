@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 import sortingview.views as sv
 import dandi.dandiarchive as da
 
+# This script generated the following figurl on 4/26/2024
+# https://figurl.org/f?v=npm://@fi-sci/figurl-sortingview@12/dist&d=sha1://bad46be226722ed7b7b3dac047dbc1433afee1d4&label=Falcon%20Benchmark%20M1%3A%20EMG%20Summary
+
 # DANDISET 000941
 # https://neurosift.app/?p=/dandiset&dandisetId=000941&dandisetVersion=draft
 # https://dandiarchive.org/dandiset/000941/draft
